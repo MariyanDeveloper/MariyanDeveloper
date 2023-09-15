@@ -18,6 +18,8 @@ I'm Mariyan, a Software Developer with 2 years of experience, specializing in Re
 ### 🏗️ **Revit API Libraries:**
 - [Craftify.Geometry](https://github.com/MariyanDeveloper/Craftify.Geometry)
 - [Craftify.RevitDatabaseExtensions](https://github.com/MariyanDeveloper/Craftify.RevitDatabaseExtensions)
+- [Craftify.Views](https://github.com/MariyanDeveloper/Craftify.Views)
+- [Craftify.PromptSelection](https://github.com/MariyanDeveloper/Craftify.PromptSelection)
 
 ### 🌐 **Autodesk Platform Services:**
 - [Craftify.DesignAutomationToolkit](https://github.com/MariyanDeveloper/Craftify.DesignAutomationToolkit)
