@@ -35,7 +35,7 @@ I'm Mariyan, a Software Developer with 2 years of experience, specializing in Re
 
 ## 📬 Get in touch:
 
-- LinkedIn: [Your Name](https://www.linkedin.com/in/mariyan-slesar-a29a90249/)
+- LinkedIn: Mariyan Slesar(https://www.linkedin.com/in/mariyan-slesar-a29a90249/)
 - Email: marianslesar.08@gmail.com
 
 <!--
