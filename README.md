@@ -5,10 +5,17 @@ I'm Mariyan, a Software Developer with 2 years of experience, specializing in Re
 
 ### Skills:
 - C#
+- WPF
+- MVVM
+- Prism
+- ASP.NET Core
 - TypeScript
 - Revit API
 - Angular
 - Autodesk Platform Services
+- SOLID
+- GRASP
+- GoF Design Patterns
 - Mentorship
 
 🎥 In addition to coding, I'm a content creator on YouTube. You can check out my videos [here](https://www.youtube.com/channel/UCEanItgUvnUQroNkK-13Y6Q).
