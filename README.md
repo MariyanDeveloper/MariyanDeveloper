@@ -14,6 +14,8 @@ I'm Mariyan, a Software Developer with 2 years of experience, specializing in Re
 - Angular
 - Autodesk Platform Services
 - SOLID
+- TDD
+- DDD
 - GRASP
 - GoF Design Patterns
 - Mentorship
