@@ -1,5 +1,5 @@
 # Hello there! 👋
-I'm Mariyan, a Software Developer with 2 years of experience, specializing in Revit Plugin Development and Web applications. 
+I'm Mariyan, a Software Developer, specializing in Revit Plugin Development and Web applications. 
 
 🎥 I'm also a content creator on YouTube. Check out my videos [here](https://www.youtube.com/channel/UCEanItgUvnUQroNkK-13Y6Q).
 
